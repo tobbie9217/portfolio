@@ -191,6 +191,34 @@ export const DATA = {
       video: "",
     },
     {
+      title: "Splexxlabs",
+      href: "https://gray-ground-0e2ebbf10-staging.centralus.3.azurestaticapps.net/",
+      dates: "",
+      active: true,
+      description:
+        "Crypto news and market intelligence platform delivering beginner-friendly blockchain news, market insights, and educational content. Monorepo (npm workspaces) with a Next.js 16 + React 19 web app, a Flutter mobile app, and a shared React package — all in TypeScript strict mode. Google Generative AI SDK powers AI features; deployed to Azure Static Web Apps via GitHub Actions.",
+      technologies: [
+        "Next.js",
+        "React",
+        "TypeScript",
+        "Tailwind CSS",
+        "Flutter",
+        "Dart",
+        "Google Generative AI",
+        "Azure Static Web Apps",
+        "GitHub Actions",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://gray-ground-0e2ebbf10-staging.centralus.3.azurestaticapps.net/",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/splexxlabs.png",
+      video: "",
+    },
+    {
       title: "Splexx",
       href: "https://www.splexx.com",
       dates: "",
