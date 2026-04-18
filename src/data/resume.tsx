@@ -9,7 +9,7 @@ import { Postgresql } from "@/components/ui/svgs/postgresql";
 export const DATA = {
   name: "Abdulsamad Tobi Abdulsalam",
   initials: "AA",
-  url: "https://abdulsamad.dev",
+  url: "https://abdulsamadabdulsalamportfolio.vercel.app",
   location: "Essen, Germany",
   locationLink: "https://www.google.com/maps/place/Essen,+Germany",
   description:

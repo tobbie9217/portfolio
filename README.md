@@ -2,7 +2,7 @@
 
 Personal portfolio and blog of **Abdulsamad Tobi Abdulsalam**, a Fullstack Web Developer based in Essen, Germany.
 
-🌐 **Live site:** [abdulsamad.dev](https://abdulsamad.dev)
+🌐 **Live site:** [abdulsamadabdulsalamportfolio.vercel.app](https://abdulsamadabdulsalamportfolio.vercel.app/)
 
 ## About Me
 
@@ -40,7 +40,7 @@ Edit [`src/data/resume.tsx`](./src/data/resume.tsx) to update content.
 
 - **Email:** abdulsalamabdulsamad@gmail.com
 - **LinkedIn:** [abdulsamad-abdulsalam](https://www.linkedin.com/in/abdulsamad-abdulsalam)
-- **Website:** [abdulsamad.dev](https://abdulsamad.dev)
+- **Website:** [abdulsamadabdulsalamportfolio.vercel.app](https://abdulsamadabdulsalamportfolio.vercel.app/)
 
 ## License
 
