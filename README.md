@@ -1,47 +1,47 @@
-<div align="center">
-<img alt="Portfolio" src="https://github.com/dillionverma/portfolio/assets/16860528/57ffca81-3f0a-4425-b31d-094f61725455" width="90%">
-</div>
+# Abdulsamad Tobi Abdulsalam — Portfolio
 
-# Portfolio [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fdillionverma%2Fportfolio)
+Personal portfolio and blog of **Abdulsamad Tobi Abdulsalam**, a Fullstack Web Developer based in Essen, Germany.
 
-Built with next.js, [shadcn/ui](https://ui.shadcn.com/), and [magic ui](https://magicui.design/), deployed on Vercel.
+🌐 **Live site:** [abdulsamad.dev](https://abdulsamad.dev)
 
-# Features
+## About Me
 
-- Setup only takes a few minutes by editing the [single config file](./src/data/resume.tsx)
-- Built using Next.js 14, React, Typescript, Shadcn/UI, TailwindCSS, Framer Motion, Magic UI
-- Includes a blog
-- Responsive for different devices
-- Optimized for Next.js and Vercel
+Fullstack Web Developer with 6+ years of experience shipping production-grade web applications. I specialize in React, Next.js, Node.js, and TypeScript — reducing page load times by up to 40%, refactoring 50,000+ line legacy codebases into modern React/TypeScript architectures, and building reusable component libraries that cut cross-team dev time by 25%.
 
-# Getting Started Locally
+Currently pursuing an **MSc in Econometrics at TU Dortmund**, pairing strong analytical skills with hands-on engineering — and building products at **Splexx** with React, Next.js, and Node.js.
 
-1. Clone this repository to your local machine:
+## Featured Projects
 
-   ```bash
-   git clone https://github.com/dillionverma/portfolio
-   ```
+- **[Tuneyverse](https://www.tuneyverse.com)** — AI-powered music and karaoke platform. React, Next.js, TypeScript.
+- **[Nodecademy](https://www.nodecademy.com)** — Fullstack Nuxt 3 learning platform with PostgreSQL + Prisma.
+- **[Betastudy](https://betastudy.app)** — SSR educational platform serving 1,000+ active learners.
+- **[Splexx](https://www.splexx.com)** — Static marketing site deployed via Azure Static Web Apps.
 
-2. Move to the cloned directory
+## Tech Stack
 
-   ```bash
-   cd portfolio
-   ```
+- **Framework:** Next.js 14, React, TypeScript
+- **Styling:** Tailwind CSS, shadcn/ui, Magic UI
+- **Animation:** Framer Motion
+- **Content:** MDX via content-collections
+- **Hosting:** Vercel
 
-3. Install dependencies:
+## Running Locally
 
-   ```bash
-   pnpm install
-   ```
+```bash
+git clone https://github.com/tobbie9217/portfolio
+cd portfolio
+npm install
+npm run dev
+```
 
-4. Start the local Server:
+Edit [`src/data/resume.tsx`](./src/data/resume.tsx) to update content.
 
-   ```bash
-   pnpm dev
-   ```
+## Contact
 
-5. Open the [Config file](./src/data/resume.tsx) and make changes
+- **Email:** abdulsalamabdulsamad@gmail.com
+- **LinkedIn:** [abdulsamad-abdulsalam](https://www.linkedin.com/in/abdulsamad-abdulsalam)
+- **Website:** [abdulsamad.dev](https://abdulsamad.dev)
 
-# License
+## License
 
-Licensed under the [MIT license](https://github.com/dillionverma/portfolio/blob/main/LICENSE.md).
+Licensed under the [MIT license](./LICENSE).
