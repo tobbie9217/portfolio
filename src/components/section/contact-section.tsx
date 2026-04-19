@@ -40,7 +40,7 @@ export default function ContactSection() {
           >
             {DATA.contact.email}
           </Link>
-          . I&apos;ll respond whenever I can. I will ignore all soliciting.
+          .
         </p>
       </div>
     </div>
